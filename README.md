@@ -1,5 +1,11 @@
 # Sample HTML Content
 
+https://github.com/HtmlTags/htmltags
+
+https://github.com/Antazx/html-things
+
+https://charlesdevwhite.medium.com/html-tags-by-example-74de6495c410
+
 https://stackoverflow.com/questions/53648090/sample-html-document-that-includes-all-tags
 
 https://gist.github.com/caseyamcl/9260337
